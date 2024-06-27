@@ -20,6 +20,7 @@ Dense Layer(relu)
 Dense layer(softmax)
 -------------------------------
 #Compile, Train, Evaluate
+
 Comiple Model(optimizer, loss, matrics)
 Train/Fit(train_i, train_l, epochs)
 Evaluate(test_i, test_l)
